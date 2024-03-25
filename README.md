@@ -3,7 +3,9 @@
 This Sample Read Data From
 https://65f55662f54db27bc022ec4a.mockapi.io/posts
 I use react-router-dom in this project.
-
+screenshot UI project
+https://github.com/taghinooshifard/simple-blog-react/blob/main/Home.png
+https://github.com/taghinooshifard/simple-blog-react/blob/main/Blog.png
 Dependencies:
 "localforage": "^1.10.0",
 "match-sorter": "^6.3.4",
